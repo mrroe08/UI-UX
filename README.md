@@ -9,3 +9,5 @@
 
 
 ## UX Journal
+
+[First journal entry.](/journal1)
