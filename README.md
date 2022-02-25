@@ -1,1 +1,3 @@
-# UI-UX
+# Mason's UI/UX Portfolio
+
+## UX Journal
