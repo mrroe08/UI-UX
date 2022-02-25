@@ -10,4 +10,4 @@
 
 ## UX Journal
 
-[First journal entry.](/journal1)
+[First journal entry.](/journal1/README.md)
