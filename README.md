@@ -12,3 +12,5 @@
 ## UX Journal
 
 [First journal entry.](/journal1/README.md)
+
+[Second journal entry.](/journal2/README.md)
