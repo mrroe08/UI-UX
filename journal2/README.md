@@ -12,4 +12,7 @@ This app is also extremely **efficient**, downloads are simple and speedy (depen
 
 <img width="1501" alt="Screen Shot 2022-04-14 at 11 51 28 AM" src="https://user-images.githubusercontent.com/78045519/163457286-ba8d79c6-31f1-44ba-b7c6-ba2b70918c9a.png">
 
-Finally, to say that the application is **effective** would be an understatement, as I mentioned before there are no hoops to jump through. Steam does exactly what it sets out to do. Nothing more and nothing less, and the fact that Steam has been around since 2003 really shows how you can make an application that is just about perfect, support it and it can stand the test of time.
+Finally, to say that the application is **effective** would be an understatement, as I mentioned before there are no hoops to jump through. Steam does exactly what it sets out to do. Nothing more and nothing less, and the fact that Steam has been around since 2003 really shows how you can make an application that is just about perfect, support it and it can stand the test of time. Below you will see one final picture showing the Library tab, as you can see the tab is very straight forward and **effective**.
+
+<img width="1507" alt="Screen Shot 2022-04-15 at 10 40 21 AM" src="https://user-images.githubusercontent.com/78045519/163603273-f98b8292-3c84-443d-a288-0e815f6b7cd5.png">
+
