@@ -14,3 +14,5 @@
 [First journal entry.](/journal1/README.md)
 
 [Second journal entry.](/journal2/README.md)
+
+[Third journal entry.](/journal3/README.md)
